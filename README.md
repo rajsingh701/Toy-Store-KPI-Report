@@ -1,5 +1,3 @@
-# Toy-Store-KPI-Report
-
 # 🧸 Toy Sales Dashboard – Power BI Project
 
 ## 📌 Project Overview
@@ -84,19 +82,6 @@ The dashboard includes the following key metrics:
 - Some categories generate high sales but lower profit margins.  
 - Certain regions dominate overall sales performance.  
 - Sales show noticeable seasonal trends across specific months.  
-
----
-
-
-
----
-
-## 🚀 How to Use This Project
-
-1. Download the `.pbix` file  
-2. Open it using Power BI Desktop  
-3. Explore the dashboard using filters and slicers  
-4. Analyze insights from different views  
 
 ---
 
