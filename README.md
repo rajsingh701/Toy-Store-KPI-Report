@@ -80,8 +80,19 @@ The dashboard includes the following key metrics:
 
 - A small percentage of products contribute to a large share of total revenue.  
 - Some categories generate high sales but lower profit margins.  
-- Certain regions dominate overall sales performance.  
-- Sales show noticeable seasonal trends across specific months.  
+- Certain regions dominate overall sales performance.
+
+---
+
+
+---
+
+## 🚀 How to Use This Project
+
+1. Download the `.pbix` file  
+2. Open it using Power BI Desktop  
+3. Explore the dashboard using filters and slicers  
+4. Analyze insights from different views  
 
 ---
 
@@ -112,6 +123,6 @@ This project is part of my portfolio showcasing my ability to convert raw data i
 ---
 
 ⭐ If you found this project helpful, feel free to star the repository!
+- Sales show noticeable seasonal trends across specific months.  
 
-## 📁 Project Structure
-
+---
