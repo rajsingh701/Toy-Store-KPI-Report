@@ -1,126 +1,91 @@
 # Toy-Store-KPI-Report
 
-### 📌 Project Overview
-The Toy Sales Dashboard is an interactive Power BI report designed to analyze toy sales performance across different regions, categories, and time periods.
+# 🧸 Toy Sales Dashboard – Power BI Project
 
-**This dashboard helps stakeholders understand:**
+## 📌 Project Overview
 
-Overall sales performance
+The Toy Sales Dashboard is an interactive Power BI report designed to analyze toy sales performance across different regions, product categories, and time periods.
 
-Profitability trends
+This project transforms raw sales data into meaningful business insights using data cleaning, data modeling, DAX calculations, and interactive visualizations in Power BI.
 
-Best-selling products
+The dashboard enables stakeholders to monitor revenue, profitability, product performance, and regional sales trends in a simple and effective way.
 
-Regional contribution
+---
 
-Customer buying patterns
+## 🎯 Business Objective
 
-The goal of this project is to transform raw sales data into meaningful business insights using Power BI, DAX, and data modeling techniques.
+The primary objectives of this project are:
 
-### 🎯 Business Objective
+- Track overall sales and profit performance  
+- Identify top-performing toy categories and products  
+- Analyze regional sales contribution  
+- Monitor monthly and yearly sales trends  
+- Support data-driven decision-making  
 
+This dashboard helps management improve:
 
-The main objective of this dashboard is to:
+- Inventory planning  
+- Marketing strategy  
+- Profit optimization  
+- Regional expansion planning  
 
-Monitor total sales and profit
+---
 
-Identify high-performing toy categories
+## 📊 Key Performance Indicators (KPIs)
 
-Track monthly and yearly trends
+The dashboard includes the following key metrics:
 
-Analyze regional sales contribution
+- 💰 Total Sales  
+- 📈 Total Profit  
+- 📦 Total Orders  
+- 📊 Profit Margin (%)  
+- 🧩 Sales by Category & Sub-Category  
+- 🌍 Sales by Region  
+- 📅 Monthly & Yearly Sales Trend  
 
-Support data-driven decision-making
+---
 
-This dashboard can help business owners:
+## 📈 Dashboard Pages & Analysis
 
-Improve inventory planning
+### 1️⃣ Sales Overview
+- Displays total revenue, profit, and order count  
+- Monthly sales trend visualization  
+- High-level performance summary  
 
-Optimize marketing strategy
+### 2️⃣ Category Performance Analysis
+- Sales and profit comparison by category  
+- Identification of high-revenue and high-margin products  
+- Helps in product portfolio optimization  
 
-Increase profitability
+### 3️⃣ Regional Analysis
+- Region-wise sales contribution  
+- Identification of top-performing and underperforming regions  
+- Supports regional strategy development  
 
-### Key KPIs Included
+### 4️⃣ Time-Based Analysis
+- Year-over-Year comparison  
+- Monthly performance tracking  
+- Seasonal demand pattern identification  
 
-The dashboard includes the following important metrics:
+---
 
- Total Sales 
- Total Profit
- Total Orders
+## 🛠 Tools & Technologies Used
 
- Profit Margin
+- Power BI Desktop – Dashboard Development  
+- Power Query – Data Cleaning & Transformation  
+- DAX (Data Analysis Expressions) – Calculated Measures & KPIs  
+- Data Modeling – Relationship Building (Star Schema)  
 
- Sales by Month / Year
+---
 
- Sales by Region
+## 🔍 Key Insights Derived
 
- Sales by Category & Sub-Category
+- A small percentage of products contribute to a large share of total revenue.  
+- Some categories generate high sales but lower profit margins.  
+- Certain regions dominate overall sales performance.  
+- Sales show noticeable seasonal trends across specific months.  
 
-### 📌 Dashboard Features
-1️⃣ Sales Overview
+---
 
-Displays overall revenue and profit
+## 📁 Project Structure
 
-Shows trend line for monthly performance
-
-Highlights top-performing products
-
-2️⃣ Category Analysis
-
-Identifies which toy categories generate the most revenue
-
-Compares sales vs profit by category
-
-Helps in product portfolio optimization
-
-3️⃣ Regional Performance
-
-Visualizes region-wise sales distribution
-
-Identifies strong and weak markets
-
-Helps in regional strategy planning
-
-4️⃣ Time-Based Analysis
-
-Year-over-Year growth
-
-Monthly sales trend
-
-Seasonal demand patterns
-
-🛠 Tools & Technologies Used
-
-Power BI – Dashboard creation & visualization
-
-DAX – Calculated measures and KPIs
-
-Data Modeling – Relationship building
-
-Data Cleaning – Power Query
-
-🔍 Key Insights
-
-Some important insights derived from the dashboard:
-
-Certain toy categories generate high sales but low profit (margin analysis needed).
-
-A few regions contribute the majority of total revenue.
-
-Seasonal trends show higher sales during specific months.
-
-Top 20% of products contribute to a large percentage of total sales.
-
-🚀 What I Learned
-
-Through this project, I improved my skills in:
-
-Data transformation using Power Query
-
-Creating calculated columns and measures using DAX
-
-Designing professional and interactive dashboards
-
-Business storytelling using data visualization
-
-KPI selection and performance tracking
