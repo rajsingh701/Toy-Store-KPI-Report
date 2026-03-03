@@ -19,6 +19,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ### 🎯 Business Objective
 
+
 The main objective of this dashboard is to:
 
 Monitor total sales and profit
