@@ -87,5 +87,46 @@ The dashboard includes the following key metrics:
 
 ---
 
+
+
+---
+
+## 🚀 How to Use This Project
+
+1. Download the `.pbix` file  
+2. Open it using Power BI Desktop  
+3. Explore the dashboard using filters and slicers  
+4. Analyze insights from different views  
+
+---
+
+## 🎓 Skills Demonstrated
+
+This project demonstrates:
+
+- Data Cleaning & Transformation  
+- Data Modeling (Star Schema)  
+- DAX Calculations & KPI Creation  
+- Interactive Dashboard Design  
+- Business Intelligence & Data Storytelling  
+- Analytical Thinking & Insight Generation  
+
+---
+
+## 📌 About Me
+
+I am a data analytics enthusiast with hands-on experience in:
+
+- SQL  
+- Power BI  
+- Excel  
+- Python  
+
+This project is part of my portfolio showcasing my ability to convert raw data into actionable business insights.
+
+---
+
+⭐ If you found this project helpful, feel free to star the repository!
+
 ## 📁 Project Structure
 
