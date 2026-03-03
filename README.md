@@ -2,7 +2,9 @@
 
 ### 📌 Project Overview
 The Toy Sales Dashboard is an interactive Power BI report designed to analyze toy sales performance across different regions, categories, and time periods.
-This dashboard helps stakeholders understand:
+
+**This dashboard helps stakeholders understand:**
+
 Overall sales performance
 
 Profitability trends
@@ -15,7 +17,7 @@ Customer buying patterns
 
 The goal of this project is to transform raw sales data into meaningful business insights using Power BI, DAX, and data modeling techniques.
 
-🎯 Business Objective
+### 🎯 Business Objective
 
 The main objective of this dashboard is to:
 
@@ -37,25 +39,23 @@ Optimize marketing strategy
 
 Increase profitability
 
-📊 Key KPIs Included
+### Key KPIs Included
 
 The dashboard includes the following important metrics:
 
-💰 Total Sales
+ Total Sales 
+ Total Profit
+ Total Orders
 
-📈 Total Profit
+ Profit Margin
 
-📦 Total Orders
+ Sales by Month / Year
 
-📊 Profit Margin
+ Sales by Region
 
-📅 Sales by Month / Year
+ Sales by Category & Sub-Category
 
-🌍 Sales by Region
-
-🧩 Sales by Category & Sub-Category
-
-📌 Dashboard Features
+### 📌 Dashboard Features
 1️⃣ Sales Overview
 
 Displays overall revenue and profit
